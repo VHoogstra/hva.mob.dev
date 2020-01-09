@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">level3_task1</string>
+    <string name="splash_text">Kotlin profile dingy</string>
+    <string name="btn_picture_gallery">open picture gallery</string>
+    <string name="firstName">Firstname</string>
+    <string name="lastName">lastname</string>
+    <string name="description">Description</string>
+    <string name="confirm">Confirm</string>
+
+    <string name="name">%1$s %2$s</string>
+</resources>
