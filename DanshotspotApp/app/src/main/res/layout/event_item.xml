@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/linearLayout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tvDateShow"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="tvDate"
+                android:textAlignment="center" />
+
+            <TextView
+                android:id="@+id/tvEvent"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="tvEvent"
+                android:textAlignment="center" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tvTodo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="tvtodo"
+                android:textAlignment="center" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>
