@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Higher Lower</string>
+    <string name="topText">Guesse if the number is going to be lower, equal or higher.</string>
+    <string name="btnLower">Lower</string>
+    <string name="btnHigher">Higher</string>
+    <string name="btnEqual">Equal</string>
+    <string name="last_throw">Last Throw: %d</string>
+    <string name="correct">correct</string>
+    <string name="incorrect">incorrect</string>
+</resources>

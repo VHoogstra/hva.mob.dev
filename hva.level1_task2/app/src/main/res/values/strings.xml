@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Logica app</string>
+    <string name="tvTitle">Conjunction (AND)</string>
+    <string name="tvAtitle">A</string>
+    <string name="tvBtitle">B</string>
+    <string name="tvCtitle">A ^ B</string>
+    <string name="correct">correct</string>
+    <string name="incorrect">incorrect</string>
+    <string name="submit">submit</string>
+
+    <string name="t">T</string>
+    <string name="f">F</string>
+
+</resources>
