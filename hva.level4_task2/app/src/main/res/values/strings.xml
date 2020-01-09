@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Schaar papier steen</string>
+    <string name="you">you</string>
+    <string name="computer">computer</string>
+    <string name="vs">V.S.</string>
+    <string name="youWin">You win!</string>
+    <string name="youLose">You lose!</string>
+    <string name="youTruce">Its a draw!</string>
+    <string name="welcome">Welcome</string>
+    <string name="instructions">instructions:select rock, paper or scissors to play</string>
+    <string name="gameHistory">Your game history</string>
+    <string name="statistics">Win: %1$d Draw: %2$d Lost: %3$d</string>
+    <string name="youralltimestatistics">Your all time statistics</string>
+</resources>
